@@ -37,9 +37,15 @@
   <tr>
     <td align="center" width="96">
       <a href="#amlan-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="./img/c_original.svg" width="48" height="48" alt="C" />
       </a>
-      <br>C# (Core)
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#amlan-tech">
+        <img src="./img/CPP.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
     </td>
     <td align="center" width="96">
       <a href="#amlan-tech">
@@ -49,21 +55,15 @@
     </td>
     <td align="center" width="96">
       <a href="#amlan-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/html_original.svg" width="48" height="48" alt="html" />
       </a>
-      <br>Go
+      <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#amlan-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/css_original.svg" width="48" height="48" alt="CSS" />
       </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#amlan-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#amlan-tech">
@@ -85,9 +85,9 @@
     </td>
     <td align="center" width="96">
       <a href="#amlan-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="./img/flask.svg" width="48" height="48" alt="Flask" />
       </a>
-      <br>Sass
+      <br>Flask
     </td>
   </tr>
   <tr>
@@ -99,15 +99,15 @@
     </td>
     <td align="center" width="96">
       <a href="#amlan-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="./img/nginx.svg" width="48" height="48" alt="NGINX" />
       </a>
-      <br>Kubernetes
+      <br>NGINX
     </td>
     <td align="center"  width="96">
       <a href="#amlan-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./img/heroku.svg" width="48" height="48" alt="Heroku" />
       </a>
-      <br>Debian
+      <br>Heroku
     </td>
     <td align="center"  width="96">
       <a href="#amlan-tech">
