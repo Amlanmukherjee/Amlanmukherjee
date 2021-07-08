@@ -18,7 +18,7 @@
 <br>
 
 <a href="#amlanmukherjee-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=amlanmukherjee" alt="amlanmukherjee" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amlanmukherjee&show_icons=true&count_private=true&include_all_commits=true" alt="amlanmukherjee" align="right"/>
 </a>
 
 - :octocat:&nbsp;I'm interested in **distributed systems** | **automation** | **ML**
