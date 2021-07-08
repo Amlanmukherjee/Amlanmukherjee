@@ -27,7 +27,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Cloud computing** and **OSS**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 
-<br>
+<br><br><br>
 
 <h2 align="left" id="amlan-tech">Favorite Tech</h2>
 
