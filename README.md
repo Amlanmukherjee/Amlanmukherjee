@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Profile%20views-511-blue?style=flat" alt="page views" />
   </a>
   <a href="https://github.com/Amlanmukherjee?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Amlanmukherjee?color=green&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/amlanmukherjee">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-3k-lightblue?style=flat&logo=linkedin&labelColor=blue">
