@@ -111,39 +111,39 @@
     </td>
     <td align="center"  width="96">
       <a href="#amlan-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+        <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
       </a>
-      <br>RHEL
+      <br>MongoDB
     </td>
     <td align="center" width="96">
       <a href="#amlan-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+        <img src="./img/postgresql.svg" width="48" height="48" alt="PostgreSQL" />
       </a>
-      <br>Powershell
+      <br>PostgreSQL
     </td>
     <td align="center"  width="96">
       <a href="#amlan-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="./img/item2.svg" width="48" height="48" alt="iterm2" />
       </a>
-      <br>MySQL
+      <br>iterm2
     </td>
     <td align="center" width="96">
       <a href="#amlan-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="./img/ubuntu.svg" width="48" height="48" alt="Ubuntu" />
       </a>
-      <br>Grafana
+      <br>Ubuntu
     </td>
     <td align="center" width="96">
       <a href="#amlan-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+        <img src="./img/vscode.svg" width="48" height="48" alt="Visual Studio Code" />
       </a>
-      <br>Prometheus
+      <br>VScode
     </td>
     <td align="center" width="96">
       <a href="#amlan-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+        <img src="./img/django.svg" width="48" height="48" alt="django" />
       </a>
-      <br>Thanos
+      <br>Django
     </td>
   </tr>
 </table>
