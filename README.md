@@ -1,7 +1,6 @@
 <h1 align="left" id="amlanmukherjee-title">:wave: Hello there! I'm Amlan Mukherjee</h1>
 <h3 align="left">I am normal guy who likes coding just like you.:wink:</h3>
 
-
 <p align="left">
   <a href="https://github.com/Amlanmukherjee/Amlanmukherjee">
     <img src="https://img.shields.io/badge/Profile%20views-511-blue?style=flat" alt="page views" />
@@ -117,13 +116,13 @@
     </td>
     <td align="center" width="96">
       <a href="#amlan-tech">
-        <img src="./img/postgresql.svg" width="48" height="48" alt="PostgreSQL" />
+        <img src="./img/postgresql_plain.svg" width="48" height="48" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
     </td>
     <td align="center"  width="96">
       <a href="#amlan-tech">
-        <img src="./img/item2.svg" width="48" height="48" alt="iterm2" />
+        <img src="./img/iterm_terminal_icon_161274.svg" width="48" height="48" alt="iterm2" />
       </a>
       <br>iterm2
     </td>
