@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/My-Website-FFD700?style=flat&logo=react&labelColor=FFFFCC">
   </a>
 </p>
-<br><br>
+<br>
 
 <a href="#amlanmukherjee-title">
   <img src="https://github-readme-stats.vercel.app/api?username=amlanmukherjee&show_icons=true&count_private=true&include_all_commits=true" alt="amlanmukherjee" align="right"/>
@@ -26,7 +26,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Cloud computing** and **OSS**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 
-<br><br><br>
+<br><br>
 
 <h2 align="left" id="amlan-tech">Favorite Tech</h2>
 
