@@ -154,7 +154,7 @@
 
 
 <a href="#amlanmukherjee-langs">
-  <img src="https://github-readme-stats-amlanmukherjee.vercel.app/api/top-langs/?username=amlanmukherjee&layout=compact&langs_count=10&card_width=100" />
+  <img src="https://github-readme-stats-amlanmukherjee.vercel.app/api/top-langs/?username=amlanmukherjee&layout=compact&langs_count=10&card_width=1000" />
 </a>
 
 <!-- prettier-ignore-end -->
