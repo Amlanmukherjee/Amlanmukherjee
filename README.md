@@ -18,7 +18,7 @@
 <br>
 
 <a href="#amlanmukherjee-title">
-  <img src="https://github-readme-stats-amlanmukherjee.vercel.app/api?username=amlanmukherjee" alt="amlanmukherjee" align="right"/>
+  <img src="https://github-readme-stats-amlanmukherjee.vercel.app/api?username=amlanmukherjee&show_icons=true" alt="amlanmukherjee" align="right"/>
 </a>
 
 - :octocat:&nbsp;I'm interested in **distributed systems** | **automation** | **ML**
@@ -149,31 +149,13 @@
 
 <h2 align="left">Coding Activity</h2>
 
-> Total logged time since 2020-07-19. Updated every 1 hour.
+> NOTE: Top Languages does not indicate my skill level or anything similar to that, it's a GitHub metric of which languages have the most code on my GitHub account.
 
-<!-- prettier-ignore-start -->
 
-<!-- START_SECTION:ascii_graph -->
 
-```
-   661.7 hr  ┤                                                                                             ╭───── 
-   661.2 hr  ┤                                                                                            ╭╯  
-   660.6 hr  ┤                                                                                      ╭─────╯   
-   660.1 hr  ┤                                                                                     ╭╯   
-   659.5 hr  ┤                                                                                    ╭╯  
-   658.9 hr  ┤                                                                         ╭──────────╯   
-   658.4 hr  ┤                                ╭────────────────────────────────────────╯  
-   657.8 hr  ┤                             ╭──╯   
-   657.3 hr  ┤                            ╭╯  
-   656.7 hr  ┤                    ╭───────╯   
-   656.1 hr  ┤                   ╭╯   
-   655.6 hr  ┤                  ╭╯  
-   655.0 hr  ┼──────────────────╯   
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
+<a href="#amlanmukherjee-langs">
+  <img src="https://github-readme-stats-amlanmukherjee.vercel.app/api/top-langs/?username=amlanmukherjee&layout=compact&langs_count=6" />
+</a>
 
 <!-- prettier-ignore-end -->
 
