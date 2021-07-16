@@ -1,4 +1,4 @@
-<h1 align="left" id="amlanmukherjee-title">:wave: Hello there! I'm Amlan Mukherjee</h1>
+<h1 align="left" id="amlanmukherjee-title">:wave: Hello there! I'm Amlan Mukherjee</h1><img align="right" width="80" src="./img/dino-run.gif">
 <h3 align="left">I am normal guy who likes coding just like you.:wink:</h3>
 
 <p align="left">
@@ -21,12 +21,13 @@
   <img src="https://github-readme-stats-amlanmukherjee.vercel.app/api?username=amlanmukherjee&show_icons=true" alt="amlanmukherjee" align="right"/>
 </a>
 
-- :octocat:&nbsp;I'm interested in **distributed systems** | **automation** | **ML**
+- :octocat:&nbsp;I'm interested in **operating systems** | **automation** | **ML**
 - :seedling: &nbsp;I’m currently learning **django**
 - :speech_balloon: &nbsp;I like to talk about **Cloud computing** and **OSS**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :e-mail: &nbsp;Feel free to **[mail me]** for collaboration
 
-<br><br>
+<br /><br>
 
 <h2 align="left" id="amlan-tech">Favorite Tech</h2>
 
@@ -162,3 +163,4 @@
 <!-- links -->
 
 [issues page]: https://github.com/Amlanmukherjee/Amlanmukherjee/issues
+[mail me]: mailto:amlanph.05@gmail.com
