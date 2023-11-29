@@ -22,7 +22,7 @@
 </a>
 
 - :octocat:&nbsp;I'm interested in **operating systems** | **automation** | **ML**
-- :seedling: &nbsp;I’m currently learning **django**
+- :seedling: &nbsp;I’m currently learning **SPARK**
 - :speech_balloon: &nbsp;I like to talk about **Cloud computing** and **OSS**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :e-mail: &nbsp;Feel free to **[mail me]** for collaboration
