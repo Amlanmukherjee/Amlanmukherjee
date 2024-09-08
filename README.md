@@ -1,5 +1,5 @@
 <h1 align="left" id="amlanmukherjee-title">:wave: Hello there! I'm Amlan Mukherjee</h1><img align="right" width="80" src="./img/dino-run.gif">
-<h3 align="left">I am normal guy who likes coding just like you.:wink:</h3>
+<h3 align="left">I am normal guy who likes coding just like you.😉:</h3>
 
 <p align="left">
   <a href="https://github.com/Amlanmukherjee/Amlanmukherjee">
